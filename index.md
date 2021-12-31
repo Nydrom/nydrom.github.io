@@ -11,7 +11,8 @@ Sepapaja 6\
 15551 Tallinn\
 Estonia
 
-
+**Managing Director and Founder:**\
+Felix Houghton-Larsen
 
 
 &copy; 2021 Nydrom OÜ
