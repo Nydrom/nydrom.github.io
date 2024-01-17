@@ -15,4 +15,4 @@ Estonia
 Felix Houghton-Larsen
 
 
-&copy; 2022 Nydrom OÜ
+&copy; 2024 Nydrom OÜ
